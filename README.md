@@ -10,7 +10,7 @@
 1. Navigate to the project directory:
 
    ```sh
-   cd log-analyzer
+   cd log-analyzer-main
    ```
 
 2. Install the dependencies:
